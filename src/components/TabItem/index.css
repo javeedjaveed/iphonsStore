@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.para {
+  color: #7b8794;
+  font-size: 25px;
+  font-family: Bree serif;
+}
+.list {
+  margin-left: 35px;
+}
+.active-btn {
+  border: 0px solid transparent;
+  text-decoration: underline;
+}
+.btn {
+  border: 0px solid transparent;
+}
